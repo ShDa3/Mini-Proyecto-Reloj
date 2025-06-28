@@ -62,7 +62,9 @@ main.py: Punto de entrada principal
 
 ![Vista del reloj](./assets/screenshot.png)
 
-**TKinder Reloj** es una aplicación de escritorio en Python con Tkinter que ofrece reloj digital en tiempo real, cronómetro con registro de laps y un sistema de alarmas configurable. Desarrollado con enfoque modular, ideal para aprendizaje, práctica profesional o como base para proyectos mayores.
+**TKinder Reloj** es una aplicación de escritorio en Python con Tkinter
+que ofrece reloj digital en tiempo real, cronómetro con registro de laps y un sistema de alarmas configurable.
+Desarrollado con enfoque modular, ideal para aprendizaje, práctica profesional o como base para proyectos mayores.
 
 ---
 
