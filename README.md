@@ -31,7 +31,7 @@
 ## 📸 Capturas de Pantalla
 
 ### Reloj Digital
-[Reloj](https://github.com/user-attachments/assets/583a341a-5485-45b0-a2a5-5957c29ae98a)
+![Reloj](https://github.com/user-attachments/assets/9b466c0e-57e9-4388-87ea-c199a6993e00)
 ## ✨ Alarma
 ![Alarma](https://github.com/user-attachments/assets/9e26581a-b894-48a7-a5d4-b6d807058b6c)
 ## ✨ Cronometro
@@ -98,13 +98,12 @@ como base para proyectos mayores.
 ---
 
 ## 📸 Capturas de Pantalla
-Reloj Digital
-###[Reloj](https://github.com/user-attachments/assets/ee47abec-e8b9-4ed6-84a1-b2e879efec7c)
-##✨ Alarma
-## ![Alarma](https://github.com/user-attachments/assets/12d3052b-530f-4b3e-ab30-4dc6c76bae6a)
+### Reloj Digital
+![Reloj](https://github.com/user-attachments/assets/9b466c0e-57e9-4388-87ea-c199a6993e00)
+## ✨ Alarma
+![Alarma](https://github.com/user-attachments/assets/9e26581a-b894-48a7-a5d4-b6d807058b6c)
 ## ✨ Cronometro
-###![cronometro](https://github.com/user-attachments/assets/490736f8-1b21-49cd-b271-15c35cec0711)
-
+![Cronometro](https://github.com/user-attachments/assets/9415fc37-3d4e-446f-81dd-24ee3a9c251c)
 
 ---
 
