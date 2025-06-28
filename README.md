@@ -95,11 +95,10 @@ Desarrollado con enfoque modular, ideal para aprendizaje, práctica profesional 
 ---
 
 ## 📸 Capturas de Pantalla
-
-### R![Reloj](https://github.com/user-attachments/assets/ee47abec-e8b9-4ed6-84a1-b2e879efec7c)
-eloj Digital
+Reloj Digital
+###[Reloj](https://github.com/user-attachments/assets/ee47abec-e8b9-4ed6-84a1-b2e879efec7c)
+##✨ Alarma
 ## ![Alarma](https://github.com/user-attachments/assets/12d3052b-530f-4b3e-ab30-4dc6c76bae6a)
-✨ Alarma
 ## ✨ Cronometro
 ![cronometro](https://github.com/user-attachments/assets/490736f8-1b21-49cd-b271-15c35cec0711)
 
