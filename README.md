@@ -1,7 +1,7 @@
 # 🕒 TKinder Reloj
+Vista Del Reloj:
+![Captura de pantalla (332)](https://github.com/user-attachments/assets/c06da8e6-db36-4fed-8393-b79dceda33eb)
 
-(https://github.com/user-attachments/assets/e3e734ea-f162-4300-89a2-116274127808)
-/reloj.PNG)
 
 **TKinder Reloj** es una aplicación de escritorio en Python con Tkinter que ofrece reloj digital en tiempo real, cronómetro con registro de laps y un sistema de alarmas configurable.
 
@@ -20,7 +20,7 @@
 
 ## ✨ Características
 
-- 🕓 Reloj digital en tiempo real con selector de zona horaria.
+- 🕓 Reloj digital en tiempo real.
 - ⏱️ Cronómetro con lista de mediciones (laps).
 - ⏰ Despertador con alarmas activables/desactivables.
 - 💡 Interfaz moderna y modular basada en POO.
@@ -31,14 +31,11 @@
 ## 📸 Capturas de Pantalla
 
 ### Reloj Digital
-(https://github.com/user-attachments/assets/af110bb4-150c-4f01-9a34-948c4b912306)
-eloj.PNG)
-###Cronometro
-(https://github.com/user-attachments/assets/2364eb1a-0188-474d-9ed8-6388c009f889)
-s/cronometro.PNG)
+![Captura de pantalla (332)](https://github.com/user-attachments/assets/62a3ca99-bee5-4b48-818d-afa6bb98a94c)
 ###Despertador
-(https://github.com/user-attachments/assets/bae97e57-d0ba-4df6-9496-d0bad2010dfb)
-despertador.PNG)
+![Captura de pantalla (333)](https://github.com/user-attachments/assets/a4821a07-677e-425e-bf67-158f5147f5e0)
+###Cronometro
+![Captura de pantalla (334)](https://github.com/user-attachments/assets/c92a45a5-3de4-452c-b159-ca40788e86ce)
 
 ---
 
@@ -85,7 +82,7 @@ main.py: Punto de entrada principal
 
 ## ✨ Características
 
-* 🕓 Reloj digital en tiempo real con selector de zona horaria.
+* 🕓 Reloj digital en tiempo real.
 * ⏱️ Cronómetro con lista de mediciones (laps).
 * ⏰ Despertador con alarmas activables/desactivables.
 * 💡 Interfaz moderna y modular basada en POO.
@@ -137,7 +134,7 @@ python main.py
 
 * **Ejecutar la app:** `python main.py`
 * Cambiar entre pestañas de reloj, cronómetro y despertador.
-* Configurar zona horaria desde el reloj.
+* Configurar El reloj.
 * Usar botones en cronómetro para iniciar, pausar y registrar laps.
 * En el despertador, seleccionar hora y guardar; se puede activar/desactivar.
 
