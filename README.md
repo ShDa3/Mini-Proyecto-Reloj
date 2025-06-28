@@ -1,5 +1,5 @@
 # 🕒 TKinder Reloj
-Vista Del Reloj:
+#Vista Del Reloj:
 ![Captura de pantalla (332)](https://github.com/user-attachments/assets/c06da8e6-db36-4fed-8393-b79dceda33eb)
 
 
