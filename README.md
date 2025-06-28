@@ -1,5 +1,5 @@
 # 🕒 TKinder Reloj
-#Vista Del Reloj:
+## ✨ Vista Del Reloj
 ![Captura de pantalla (332)](https://github.com/user-attachments/assets/c06da8e6-db36-4fed-8393-b79dceda33eb)
 
 
@@ -32,10 +32,11 @@
 
 ### Reloj Digital
 ![Captura de pantalla (332)](https://github.com/user-attachments/assets/62a3ca99-bee5-4b48-818d-afa6bb98a94c)
-###Despertador
+## ✨ Alarma
 ![Captura de pantalla (333)](https://github.com/user-attachments/assets/a4821a07-677e-425e-bf67-158f5147f5e0)
-###Cronometro
-![Captura de pantalla (334)](https://github.com/user-attachments/assets/c92a45a5-3de4-452c-b159-ca40788e86ce)
+## ✨ Cronometro
+![Captura de pantalla (334)](https://github.com/user-attachments/assets/4ceafd77-0e3a-40f2-b428-4cf7fc8319a7)
+
 
 ---
 
