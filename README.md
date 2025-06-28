@@ -99,11 +99,11 @@ como base para proyectos mayores.
 
 ## 📸 Capturas de Pantalla
 ### Reloj Digital
-![Reloj](https://github.com/user-attachments/assets/9b466c0e-57e9-4388-87ea-c199a6993e00)
+###![Reloj](https://github.com/user-attachments/assets/9b466c0e-57e9-4388-87ea-c199a6993e00)
 ## ✨ Alarma
-![Alarma](https://github.com/user-attachments/assets/9e26581a-b894-48a7-a5d4-b6d807058b6c)
+###![Alarma](https://github.com/user-attachments/assets/9e26581a-b894-48a7-a5d4-b6d807058b6c)
 ## ✨ Cronometro
-![Cronometro](https://github.com/user-attachments/assets/9415fc37-3d4e-446f-81dd-24ee3a9c251c)
+###![Cronometro](https://github.com/user-attachments/assets/9415fc37-3d4e-446f-81dd-24ee3a9c251c)
 
 ---
 
