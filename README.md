@@ -100,7 +100,7 @@ Reloj Digital
 ##✨ Alarma
 ## ![Alarma](https://github.com/user-attachments/assets/12d3052b-530f-4b3e-ab30-4dc6c76bae6a)
 ## ✨ Cronometro
-![cronometro](https://github.com/user-attachments/assets/490736f8-1b21-49cd-b271-15c35cec0711)
+###![cronometro](https://github.com/user-attachments/assets/490736f8-1b21-49cd-b271-15c35cec0711)
 
 
 ---
