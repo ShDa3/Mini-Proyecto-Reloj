@@ -1,6 +1,6 @@
 # 🕒 TKinder Reloj
 
-![Vista del reloj](./assets![Captura de pantalla (332)](https://github.com/user-attachments/assets/e3e734ea-f162-4300-89a2-116274127808)
+(./assets![Captura de pantalla (332)](https://github.com/user-attachments/assets/e3e734ea-f162-4300-89a2-116274127808)
 /reloj.PNG)
 
 **TKinder Reloj** es una aplicación de escritorio en Python con Tkinter que ofrece reloj digital en tiempo real, cronómetro con registro de laps y un sistema de alarmas configurable.
@@ -31,11 +31,11 @@
 ## 📸 Capturas de Pantalla
 
 ### Reloj Digital
-![Reloj digital](./assets/r![Captura de pantalla (332)](https://github.com/user-attachments/assets/af110bb4-150c-4f01-9a34-948c4b912306)
+(./assets/r![Captura de pantalla (332)](https://github.com/user-attachments/assets/af110bb4-150c-4f01-9a34-948c4b912306)
 eloj.PNG)
-![Cronómetro](./asset![Captura de pantalla (334)](https://github.com/user-attachments/assets/2364eb1a-0188-474d-9ed8-6388c009f889)
+(./asset![Captura de pantalla (334)](https://github.com/user-attachments/assets/2364eb1a-0188-474d-9ed8-6388c009f889)
 s/cronometro.PNG)
-![Despertador](./assets/![Captura de pantalla (333)](https://github.com/user-attachments/assets/bae97e57-d0ba-4df6-9496-d0bad2010dfb)
+(./assets/![Captura de pantalla (333)](https://github.com/user-attachments/assets/bae97e57-d0ba-4df6-9496-d0bad2010dfb)
 despertador.PNG)
 
 ---
