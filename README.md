@@ -31,11 +31,12 @@
 ## 📸 Capturas de Pantalla
 
 ### Reloj Digital
-![Captura de pantalla (332)](https://github.com/user-attachments/assets/62a3ca99-bee5-4b48-818d-afa6bb98a94c)
+[Reloj](https://github.com/user-attachments/assets/583a341a-5485-45b0-a2a5-5957c29ae98a)
 ## ✨ Alarma
-![Captura de pantalla (333)](https://github.com/user-attachments/assets/a4821a07-677e-425e-bf67-158f5147f5e0)
+![Alarma](https://github.com/user-attachments/assets/9e26581a-b894-48a7-a5d4-b6d807058b6c)
 ## ✨ Cronometro
-![Captura de pantalla (334)](https://github.com/user-attachments/assets/4ceafd77-0e3a-40f2-b428-4cf7fc8319a7)
+![Cronometro](https://github.com/user-attachments/assets/9415fc37-3d4e-446f-81dd-24ee3a9c251c)
+
 
 
 ---
